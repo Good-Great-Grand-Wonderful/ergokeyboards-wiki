@@ -1,0 +1,12 @@
+// Cloudflare Workers (static assets) config.
+// Git-connected setup in the dashboard: build command `npm run build`,
+// deploy command `npx wrangler deploy`.
+{
+  "name": "crosses-v2-docs",
+  "compatibility_date": "2026-07-06",
+  "assets": {
+    "directory": "./build",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}
