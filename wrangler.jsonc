@@ -1,12 +1,6 @@
-// Cloudflare Workers (static assets) config.
-// Git-connected setup in the dashboard: build command `npm run build`,
-// deploy command `npx wrangler deploy`.
 {
   "name": "gggw-docs",
   "compatibility_date": "2026-07-06",
-  // Requires the ergokeyboards.com zone to be on Cloudflare (nameserver
-  // move from Google Cloud DNS); Cloudflare then creates the DNS record
-  // and certificate for this hostname automatically.
   "routes": [{ "pattern": "wiki.ergokeyboards.com", "custom_domain": true }],
   "assets": {
     "directory": "./build",

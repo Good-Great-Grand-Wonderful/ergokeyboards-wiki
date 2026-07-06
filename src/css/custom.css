@@ -48,3 +48,12 @@
 .markdown img {
   border-radius: 8px;
 }
+
+/* Keymap diagrams (from keymap-drawer) have dark labels on a transparent
+   background, so sit them on a light card to stay readable in dark mode. */
+.markdown img.keymap-svg {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background: #fff;
+}
