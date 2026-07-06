@@ -24,7 +24,7 @@ Find the latest release for pre-built firmware [on the releases page](https://gi
 5. Repeat steps 1–4 for the left side of the keyboard, using the corresponding `.uf2` file.
 
 :::danger
-Flash the correct `.uf2` file to each side—they are **not** interchangeable.
+Flash the correct `.uf2` file to each side - they are **not** interchangeable.
 :::
 
-Once both halves are flashed, you're ready to [connect your keyboard](/firmware/connecting).
+Once both halves are flashed, you're ready to [connect your keyboard](/crosses-v2/firmware/connecting).

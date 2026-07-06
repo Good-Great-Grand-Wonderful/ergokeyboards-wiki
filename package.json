@@ -1,5 +1,5 @@
 {
-  "name": "crosses-v2-docs",
+  "name": "gggw-docs",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -45,5 +45,5 @@
   "engines": {
     "node": ">=20.0"
   },
-  "description": "Documentation for the Crosses V2 split keyboard"
+  "description": "Documentation for Good Great Grand Wonderful keyboards"
 }

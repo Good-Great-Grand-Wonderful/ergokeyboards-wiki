@@ -7,11 +7,11 @@ title: Reference
 
 ## Pre-Built Firmware
 
-The latest pre-built firmware lives [on the releases page](https://github.com/Good-Great-Grand-Wonderful/crosses-v2/releases). Files are named `crosses_v2_<size>_<side>.uf2` — each side of each size gets its own file, and they are not interchangeable.
+The latest pre-built firmware lives [on the releases page](https://github.com/Good-Great-Grand-Wonderful/crosses-v2/releases). Files are named `crosses_v2_<size>_<side>.uf2`. Each side gets its own file, and they are not interchangeable.
 
 ## Firmware Templates
 
-Building [custom firmware](/firmware/customizing)? Use the template that matches your keyboard's size:
+Building [custom firmware](/crosses-v2/firmware/customizing)? Use the template that matches your keyboard's size:
 
 | Model  | Template Repository                                                                                        |
 | ------ | ---------------------------------------------------------------------------------------------------------- |

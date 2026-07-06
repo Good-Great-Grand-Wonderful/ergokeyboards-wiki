@@ -3,21 +3,19 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Crosses V2',
-  tagline: 'Build, flash, and tune your Crosses V2 split keyboard',
+  title: 'Ergokeyboards',
+  tagline: 'Build guides, firmware help, and tuning docs for Ergokeyboards boards',
   favicon: 'img/logo.svg',
 
   future: {
     v4: true,
   },
 
-  // TODO: swap in the real domain once it's decided. Everything else is
-  // domain-agnostic (all internal links are root-relative).
-  url: 'https://crosses-v2-docs.example.com',
+  url: 'https://wiki.ergokeyboards.com',
   baseUrl: '/',
 
   organizationName: 'good-Great-Grand-Wonderful',
-  projectName: 'crosses-v2-docs',
+  projectName: 'ergokeyboards-wiki',
 
   onBrokenLinks: 'throw',
 
@@ -35,7 +33,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/good-Great-Grand-Wonderful/crosses-v2-docs/tree/main/',
+            'https://github.com/Good-Great-Grand-Wonderful/ergokeyboards-wiki/tree/main/',
         },
         blog: false,
         theme: {
@@ -65,12 +63,19 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Crosses V2',
+        title: 'Ergokeyboards',
         logo: {
           alt: 'Good Great Grand Wonderful logo',
           src: 'img/logo.svg',
         },
         items: [
+          // One entry per keyboard; switch to a dropdown when there are a few.
+          {
+            type: 'docSidebar',
+            sidebarId: 'crossesV2',
+            label: 'Crosses V2',
+            position: 'left',
+          },
           {
             href: 'https://ergokeyboards.com',
             label: 'Store',
@@ -122,7 +127,7 @@ const config = {
             items: [
               {
                 label: 'Trackball tuning app',
-                href: 'https://trackball-config.vincentfranco.com/',
+                href: 'https://trackball-config.ergokeyboards.com/',
               },
               {
                 label: 'ZMK docs',

@@ -5,7 +5,7 @@ title: Connecting
 
 # Connecting Your Keyboard
 
-Now that your keyboard is assembled and flashed, it's time to connect it to your computer. The right side of the keyboard is the primary side — it's how the keyboard talks to your computer, and the left side communicates through it. A direct connection to only the left side is not supported.
+Now that your keyboard is assembled and flashed, it's time to connect it to your computer. The right side of the keyboard is the primary side and is how the left side of the keyboard communicates with your computer - a direct connection to only the left side is not supported.
 
 ## Wired Connection
 

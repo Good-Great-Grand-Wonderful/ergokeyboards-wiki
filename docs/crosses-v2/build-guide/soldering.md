@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Soldering
 ---
 
-# Build Guide — Soldering
+# Soldering
 
 ## Before You Begin
 
@@ -73,4 +73,4 @@ The most complex part of the build is done - congratulations!
 
 1. Repeat and follow the instructions for the second thumb assembly.
 2. Solder hotswap sockets to the matrix PCBs. These boards are straight-forward and only require soldering the hotswap sockets. Use the same pre-tin and reflow technique from before.
-3. Once both thumb assemblies and both matrix boards are complete, proceed to the [Final Assembly Guide](/build-guide/final-assembly).
+3. Once both thumb assemblies and both matrix boards are complete, proceed to the [Final Assembly Guide](/crosses-v2/build-guide/final-assembly).

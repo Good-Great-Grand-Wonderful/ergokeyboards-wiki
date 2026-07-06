@@ -3,11 +3,11 @@ sidebar_position: 2
 title: Final Assembly
 ---
 
-# Build Guide — Final Assembly
+# Final Assembly
 
 ## Before You Begin
 
-- Complete the [Soldering Guide](/build-guide/soldering) for both sides before proceeding.
+- Complete the [Soldering Guide](/crosses-v2/build-guide/soldering) for both sides before proceeding.
 - Work on a clean, well-lit surface - small parts can escape easily.
 - Take your time with cable routing. Pinched wires are the most common source of build issues.
 
@@ -207,4 +207,4 @@ Your keyboard half is now fully assembled! Repeat the instructions for the other
 
 - Install your switches and keycaps.
 - Drop the trackball into its carrier.
-- [Flash the firmware](/firmware/flashing) and start customizing your keymap!
+- [Flash the firmware](/crosses-v2/firmware/flashing) and start customizing your keymap!
