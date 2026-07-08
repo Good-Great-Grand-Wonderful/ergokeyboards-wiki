@@ -29,6 +29,10 @@
   --ifm-heading-font-weight: 700;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  text-transform: uppercase;
+}
+
 /* Lighter terracotta in dark mode so links stay readable on #202020. */
 [data-theme='dark'] {
   --ifm-color-primary: #d5847c;
