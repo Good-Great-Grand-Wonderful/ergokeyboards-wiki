@@ -25,7 +25,7 @@ For deeper customization - combos, macros, behaviors, and more - set up your com
 ### Build Process
 
 1. Click **Use this template** on the appropriate repository to create your own copy.
-2. Edit `config/crosses.keymap`. Refer to the [ZMK keymap documentation](https://zmk.dev/docs/features/keymaps) or use the [visual keymap editor](https://github.com/nickcoutsos/keymap-editor).
+2. Edit `config/crosses_v2.keymap`. Refer to the [ZMK keymap documentation](https://zmk.dev/docs/features/keymaps) or use the [visual keymap editor](https://github.com/nickcoutsos/keymap-editor).
 3. Commit and push your changes - GitHub Actions builds the firmware automatically.
 4. Go to the **Actions** tab, select the latest workflow run, and download the `firmware` artifact.
 5. Flash the new `.uf2` files using [the flashing steps](/crosses-v2/firmware/flashing).
