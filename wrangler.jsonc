@@ -1,5 +1,5 @@
 {
-  "name": "gggw-docs",
+  "name": "ergokeyboards-wiki",
   "compatibility_date": "2026-07-06",
   "routes": [{ "pattern": "wiki.ergokeyboards.com", "custom_domain": true }],
   "assets": {
