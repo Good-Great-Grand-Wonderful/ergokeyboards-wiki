@@ -50,7 +50,7 @@ This section details assembly of several cables and sensors to the thumb unit. R
 
 ![insert-FFC](/img/insert-FFC.jpg)
 
-1. Locate the FFC connector (`J5`) on the thumb PCB.
+1. Locate the FFC connector (`J3`) on the thumb PCB.
 2. Gently lift the clamshell latch with a plastic spudger or your fingernail.
 
 :::note

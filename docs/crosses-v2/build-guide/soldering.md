@@ -41,11 +41,11 @@ title: Soldering
 
 ### Battery Connector
 
-1. Now ensure the battery connector silkscreen (`J6`) is face-up. (same side as reset switch)
+1. Now ensure the battery connector silkscreen is face-up. (same side as reset switch)
 
 ![jst-connector-start](/img/jst-connector-start.jpg)
 
-2. Place the JST connector (`J6`) and align the connector with the silkscreen.
+2. Place the JST connector and align the connector with the silkscreen.
 
 ![jst-connector-finish](/img/jst-connector-finish.jpg)
 
