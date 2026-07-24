@@ -11,6 +11,8 @@
 # Local clone of the old GitHub wiki (migration source, not part of the site)
 /source-wiki
 
+.direnv/
+
 # Misc
 .DS_Store
 .env.local

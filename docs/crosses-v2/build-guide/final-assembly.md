@@ -113,7 +113,7 @@ Connect the six-pin JST cable from the trackball sensor to its matching connecto
 
 ![carrier-ceramic-ball-install](/img/carrier-ceramic-ball-install.jpg)
 
-Place the three 5mm static bearings into their cradles on the carrier base. They should sit loosely - the top will hold them in place once assembled.
+Place the three 5mm static bearings into their cradles on the carrier base. They can sit loosely and might fall out - the top will hold them captive once assembled.
 
 ---
 
@@ -172,7 +172,8 @@ Make sure the Li-Po battery can lie flush against the case without interfering w
 
 ![matrix-attach-3-make-ffc-z](/img/matrix-attach-3-make-ffc-z.jpg)
 
-1. Fold the FFC cable into a gentle "Z" shape. This absorbs the excess length without sharp bends.
+1. Fold the FFC ribbon cable into a gentle "Z" shape. This absorbs the excess length without sharp bends.
+2. Connect the ribbon cable to the matrix.
 2. Arrange the trackball sensor wires so they do not get pinched between the PCB and case.
 
 :::tip
