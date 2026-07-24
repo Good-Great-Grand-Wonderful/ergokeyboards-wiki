@@ -113,7 +113,7 @@ Connect the six-pin JST cable from the trackball sensor to its matching connecto
 
 ![carrier-ceramic-ball-install](/img/carrier-ceramic-ball-install.jpg)
 
-Place the three 5mm static bearings into their cradles on the carrier base. They can sit loosely and might fall out - the top will hold them captive once assembled.
+Place the three 5mm static bearings into their cradles on the carrier base. They can sit loose and might fall out - the top will hold them captive once assembled.
 
 ---
 
